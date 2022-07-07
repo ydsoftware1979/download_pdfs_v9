@@ -1,0 +1,10 @@
+Em configurações do IE >> aba segurança >> desabilitar a caixinha "Enable protected mode", isso para todas as abas de internet,
+local intranet, trusted sites e restricted sites.
+
+
+host: 158.69.141.161
+caminho ftp:/storage/app/faturas/
+usuário:importador
+
+
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=54920
